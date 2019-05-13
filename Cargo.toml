@@ -1,0 +1,8 @@
+[package]
+name = "webidl-validator"
+version = "0.1.0"
+authors = ["Ms2ger <Ms2ger@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+weedle = "0.8"
